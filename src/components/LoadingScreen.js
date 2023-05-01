@@ -1,0 +1,1 @@
+export const LoadingScreen = () => <h1>Carregando...</h1>
